@@ -1,0 +1,26 @@
+/**
+ * @name SimplyDark - Fuchsia Darkness
+ * @author toxxy the trash#5015 and Gibbu#1211
+ * @version 6.2.1
+ * @description makes discord sharp, compact and sexy.
+ * @source https://github.com/ToxicMethASS/SDToxxy
+*/
+
+@import url("https://toxxythetrash.github.io/SimplyDarkFuchsiaDarkness/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;0,800;1,500;1,600;1,700;1,800&display=swap');
+
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
+
+:root {
+	--AccentColor: 90, 90, 90;
+	--PrimaryBackgroundColor: 4, 4, 4;
+	--SecondaryBackgroundColor: 36, 36, 36;
+
+	--Font: 'Montserrat';
+	--SD-avatar-status-width: 1px;
+
+	--CustomSettingsHeaderText: "raincoats are hot";
+	--CustomEmailBlur: "this doesn't work anymore so don't bother changing it";
+	--SettingsSidebarSpacing: 0; /* Select a number between 0-2; going above 2 might not be recommended */
+}
